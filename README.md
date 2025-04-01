@@ -6,12 +6,12 @@
 
 1. [Introduction](#1-introduction)
 2. [Project Overview](#2-project-overview)
-3. [Code Structure](#4-code-structure)
-4. [Dependencies](#5-dependencies)
-5. [Code Refactoring](#6-code-refactoring)
-6. [Deployment](#7-deployment)
-7. [Usage](#8-usage)
-8. [License](#9-license)
+3. [Code Structure](#3-code-structure)
+4. [Dependencies](#4-dependencies)
+5. [Code Refactoring](#5-code-refactoring)
+6. [Deployment](#6-deployment)
+7. [Usage](#7-usage)
+8. [License](#8-license)
 
 ## 1. Introduction
 
